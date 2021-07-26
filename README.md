@@ -12,7 +12,7 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 
 04  Kind tcpdump image load: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB04-KIND-TCPDUMP-Image-Load.pdf)
 
-## Day 1
+## Day 2
 
 05  Container Communication Eavesdropping: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB05-Container-Communication-Eavesdropping.pdf)
 
