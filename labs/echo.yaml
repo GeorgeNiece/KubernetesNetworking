@@ -1,0 +1,72 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: hello-app
+  labels:
+    app: hello
+spec:
+  containers:
+  - name: hello-app
+    image: hashicorp/http-echo:0.2.3
+    args:
+    - "-text=hello"
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: hello-service
+spec:
+  selector:
+    app: hello
+  ports:
+  # Default port used by the image
+  - port: 5678
+---
+kind: Pod
+apiVersion: v1
+metadata:
+  name: howdy-app
+  labels:
+    app: howdy
+spec:
+  containers:
+  - name: howdy-app
+    image: hashicorp/http-echo:0.2.3
+    args:
+    - "-text=howdy"
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: howdy-service
+spec:
+  selector:
+    app: howdy
+  ports:
+  # Default port used by the image
+  - port: 5678
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: echo-ingress
+spec:
+  rules:
+  - http:
+      paths:
+      - pathType: Prefix
+        path: "/hello"
+        backend:
+          service:
+            name: hello-service
+            port:
+              number: 5678
+      - pathType: Prefix
+        path: "/howdy"
+        backend:
+          service:
+            name: howdy-service
+            port:
+              number: 5678
+---
+
