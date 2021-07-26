@@ -12,6 +12,8 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 
 04  Kind tcpdump image load: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB04-KIND-TCPDUMP-Image-Load.pdf)
 
+## Day 1
+
 05  Container Communication Eavesdropping: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB05-Container-Communication-Eavesdropping.pdf)
 
 06  Kind Load Balancer: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB06-KIND-LoadBalancer.pdf)
@@ -19,6 +21,9 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 07  K3D Getting Started: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB07-K3D-GettingStarted.pdf)
 
 08  K3D Simple NodePort: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB08-K3D-SimpleNodePort.pdf)
+
+## Day 3 
+
 <!--
 05 Container Communication Eavesdropping: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB02-WorkingWithKind.pdf)
 -->
