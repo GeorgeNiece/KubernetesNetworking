@@ -1,6 +1,6 @@
 # Kubernetes Networking
 
-Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/content/KubernetesNetworking-V7.pdf)
+Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/content/KubernetesNetworkingV5.pdf)
 
 ## Day 1
 
