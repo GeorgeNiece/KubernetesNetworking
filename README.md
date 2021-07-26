@@ -4,7 +4,7 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 
 ## Day 1
 
-01  Foundation: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/Lab01-Foundation.pdf).
+01  Foundation: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB01-Foundation.pdf).
 
 02  Working With Kind: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB02-WorkingWithKind.pdf)
 
