@@ -1,33 +1,33 @@
 kind: Pod
 apiVersion: v1
 metadata:
-  name: foo-app
+  name: good-app
   labels:
     app: http-echo
 spec:
   containers:
-  - name: foo-app
+  - name: good-app
     image: hashicorp/http-echo:0.2.3
     args:
-    - "-text=foo"
+    - "-text=good"
 ---
 kind: Pod
 apiVersion: v1
 metadata:
-  name: bar-app
+  name: great-app
   labels:
     app: http-echo
 spec:
   containers:
-  - name: bar-app
+  - name: great-app
     image: hashicorp/http-echo:0.2.3
     args:
-    - "-text=bar"
+    - "-text=great"
 ---
 kind: Service
 apiVersion: v1
 metadata:
-  name: foo-service
+  name: good-service
 spec:
   type: LoadBalancer
   selector:
