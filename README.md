@@ -24,6 +24,12 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 
 ## Day 3 
 
+09  K3D Simple Ingress: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB08-K3D-SimpleNodePort.pdf)
+
+10  K3D & Istio: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB08-K3D-SimpleNodePort.pdf)
+
+11  Kind & Nginx Ingress Controller: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB08-K3D-SimpleNodePort.pdf)
+
 <!--
 05 Container Communication Eavesdropping: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB02-WorkingWithKind.pdf)
 -->
