@@ -32,6 +32,8 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 
 12  K3D & Prometheus: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB12-K3D-Prometheus.pdf)
 
+13  Kind & Calico: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB13-KIND-Calico-CNI.pdf)
+
 <!--
 05 Container Communication Eavesdropping: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB02-WorkingWithKind.pdf)
 -->
