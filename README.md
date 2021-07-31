@@ -34,6 +34,8 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 
 13  Kind & Calico: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB13-KIND-Calico-CNI.pdf)
 
+14  AWS EKS Networking: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB14-EKS-AWS-Network.pdf)
+
 <!--
 05 Container Communication Eavesdropping: [here](https://github.com/GeorgeNiece/KubernetesNetworking/blob/master/labs/LAB02-WorkingWithKind.pdf)
 -->
