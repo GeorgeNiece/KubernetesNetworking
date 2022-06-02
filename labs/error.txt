@@ -1,0 +1,2 @@
+[36mINFO[0m[0000] Prep: Network                                
+[36mINFO[0m[0000] Deleting cluster 'k3s-default'               
